@@ -1,2 +1,2 @@
 # SD
-laboratoarele la SD (Spring Boot, Dataflow, JEE,
+laboratoarele la SD (Spring Boot, Dataflow, JEE)
